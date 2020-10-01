@@ -3,7 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=318097" alt="318097" /> </p>
 
+- 🔭 I’m currently working on [React UI](https://github.com/318097/react-ui)
+
 - 🌱 I’m currently learning **GraphQL**
+
+- 🤝 I’m looking for help with [Notes App](https://github.com/318097/notes)
+
+- 📝 I regulary write articles on [https://www.codedrops.tech](https://www.codedrops.tech)
 
 - 💬 Ask me about **Javascript**
 

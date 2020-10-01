@@ -17,6 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Create a nxn array](https://dev.to/318097/create-a-nxn-array-3moe)
+- [Complete the function without using loops and conditions](https://dev.to/318097/complete-the-function-without-using-loops-and-conditions-3k4f)
+- [What's the output? Hoisting question](https://dev.to/318097/what-s-the-output-hoisting-question-a41)
+- [Convert a set to an array](https://dev.to/318097/convert-a-set-to-an-array-3jog)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

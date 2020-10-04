@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Nullish coalescing operator](https://dev.to/318097/nullish-coalescing-operator-4hpp)
 - [What's the order of execution?](https://dev.to/318097/what-s-the-order-of-execution-1lg7)
 - [Create a nxn array](https://dev.to/318097/create-a-nxn-array-3moe)
 - [Complete the function without using loops and conditions](https://dev.to/318097/complete-the-function-without-using-loops-and-conditions-3k4f)
-- [What's the output? Hoisting question](https://dev.to/318097/what-s-the-output-hoisting-question-a41)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

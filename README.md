@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Pass props using spread operator](https://dev.to/318097/pass-props-using-spread-operator-5f88)
 - [Return an object/expression from arrow function](https://dev.to/318097/return-an-object-expression-from-arrow-function-4lgo)
 - [Nullish coalescing operator](https://dev.to/318097/nullish-coalescing-operator-4hpp)
 - [What's the order of execution?](https://dev.to/318097/what-s-the-order-of-execution-1lg7)
-- [Create a nxn array](https://dev.to/318097/create-a-nxn-array-3moe)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

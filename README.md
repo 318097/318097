@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Find sum of all the elements of an array using reduce()](https://dev.to/318097/find-sum-of-all-the-elements-of-an-array-using-reduce-26c5)
 - [Async function return promise by default](https://dev.to/318097/async-function-return-promise-by-default-mhb)
 - [Pass props using spread operator](https://dev.to/318097/pass-props-using-spread-operator-5f88)
 - [Return an object/expression from arrow function](https://dev.to/318097/return-an-object-expression-from-arrow-function-4lgo)
-- [Nullish coalescing operator](https://dev.to/318097/nullish-coalescing-operator-4hpp)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

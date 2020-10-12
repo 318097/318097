@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Difference between double equal and triple equal](https://dev.to/318097/difference-between-double-equal-and-triple-equal-29ch)
 - [Install a specific version of a package](https://dev.to/318097/install-a-specific-version-of-a-package-8oe)
 - [Destructuring - renaming and default value](https://dev.to/318097/destructuring-renaming-and-default-value-18p8)
 - [Find sum of all the elements of an array using reduce()](https://dev.to/318097/find-sum-of-all-the-elements-of-an-array-using-reduce-26c5)
-- [Async function return promise by default](https://dev.to/318097/async-function-return-promise-by-default-mhb)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

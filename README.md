@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Change array size using length property](https://dev.to/318097/change-array-size-using-length-property-2g70)
 - [Difference between double equal and triple equal](https://dev.to/318097/difference-between-double-equal-and-triple-equal-29ch)
 - [Install a specific version of a package](https://dev.to/318097/install-a-specific-version-of-a-package-8oe)
 - [Destructuring - renaming and default value](https://dev.to/318097/destructuring-renaming-and-default-value-18p8)
-- [Find sum of all the elements of an array using reduce()](https://dev.to/318097/find-sum-of-all-the-elements-of-an-array-using-reduce-26c5)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Better way to accept arguments](https://dev.to/318097/better-way-to-accept-arguments-3ano)
 - [Add Properties to functions](https://dev.to/318097/add-properties-to-functions-5f4b)
 - [Different number types](https://dev.to/318097/different-number-types-4o65)
 - [Change array size using length property](https://dev.to/318097/change-array-size-using-length-property-2g70)
-- [Difference between double equal and triple equal](https://dev.to/318097/difference-between-double-equal-and-triple-equal-29ch)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

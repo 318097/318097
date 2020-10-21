@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Filter method in JS](https://dev.to/318097/filter-method-in-js-ok)
+- [Run a React app bootstrapped using cra on a different port](https://dev.to/318097/run-a-react-app-bootstrapped-using-cra-on-a-different-port-4o81)
 - [Swap variables using destructuring](https://dev.to/318097/swap-variables-using-destructuring-2n56)
 - [Better way to accept arguments](https://dev.to/318097/better-way-to-accept-arguments-3ano)
-- [Add Properties to functions](https://dev.to/318097/add-properties-to-functions-5f4b)
-- [Different number types](https://dev.to/318097/different-number-types-4o65)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

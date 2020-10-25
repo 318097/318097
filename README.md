@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Swap two numbers without using a temporary variable](https://dev.to/318097/swap-two-numbers-without-using-a-temporary-variable-1f6k)
 - [Regex: Match Sets](https://dev.to/318097/regex-match-sets-48d0)
 - [Destructuring nested key](https://dev.to/318097/destructuring-nested-key-e3h)
 - [Convert array to object using reduce()](https://dev.to/318097/convert-array-to-object-using-reduce-1c6k)
-- [Filter method in JS](https://dev.to/318097/filter-method-in-js-ok)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

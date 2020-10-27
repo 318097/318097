@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [String - trim()](https://dev.to/318097/string-trim-650)
 - [Check if a string is Palindrome](https://dev.to/318097/check-if-a-string-is-palindrome-2383)
 - [Swap two numbers without using a temporary variable](https://dev.to/318097/swap-two-numbers-without-using-a-temporary-variable-1f6k)
 - [Regex: Match Sets](https://dev.to/318097/regex-match-sets-48d0)
-- [Destructuring nested key](https://dev.to/318097/destructuring-nested-key-e3h)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

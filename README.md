@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Check if a value is an array](https://dev.to/318097/check-if-a-value-is-an-array-p2a)
 - [Array.every()](https://dev.to/318097/array-every-3dh8)
 - [What's the output?](https://dev.to/318097/what-s-the-output-4a48)
 - [String - trim()](https://dev.to/318097/string-trim-650)
-- [Check if a string is Palindrome](https://dev.to/318097/check-if-a-string-is-palindrome-2383)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

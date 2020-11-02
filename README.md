@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Prevent an object's properties value from updating](https://dev.to/318097/prevent-an-object-s-properties-value-from-updating-48pi)
+- [Reverse a string in JS](https://dev.to/318097/reverse-a-string-in-js-206j)
 - [Check if a value is an array](https://dev.to/318097/check-if-a-value-is-an-array-p2a)
 - [Array.every()](https://dev.to/318097/array-every-3dh8)
-- [What's the output?](https://dev.to/318097/what-s-the-output-4a48)
-- [String - trim()](https://dev.to/318097/string-trim-650)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

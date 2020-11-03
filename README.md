@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Javascript - Truth and Lies](https://dev.to/318097/javascript-truth-and-lies-4275)
+- [Pretty format numbers](https://dev.to/318097/pretty-format-numbers-47ph)
 - [Prevent an object's properties value from updating](https://dev.to/318097/prevent-an-object-s-properties-value-from-updating-48pi)
 - [Reverse a string in JS](https://dev.to/318097/reverse-a-string-in-js-206j)
-- [Check if a value is an array](https://dev.to/318097/check-if-a-value-is-an-array-p2a)
-- [Array.every()](https://dev.to/318097/array-every-3dh8)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

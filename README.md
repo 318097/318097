@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Promise.resolve()](https://dev.to/318097/promise-resolve-194h)
 - [Array.some()](https://dev.to/318097/array-some-4na8)
 - [Manipulating `this` using .call()](https://dev.to/318097/manipulating-this-using-call-1i72)
 - [Javascript - Truth and Lies](https://dev.to/318097/javascript-truth-and-lies-4275)
-- [Pretty format numbers](https://dev.to/318097/pretty-format-numbers-47ph)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

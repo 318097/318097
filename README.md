@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [try..catch..finally - Real example](https://dev.to/318097/try-catch-finally-real-example-f51)
 - [String.Repeat()](https://dev.to/318097/string-repeat-3h4e)
 - [What changes can be made with `const`](https://dev.to/318097/what-changes-can-be-made-with-const-pi9)
 - [New Number() is truthy or falsy?](https://dev.to/318097/new-number-is-truthy-or-falsy-2h6p)
-- [Promise.resolve()](https://dev.to/318097/promise-resolve-194h)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

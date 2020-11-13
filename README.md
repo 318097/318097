@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [JS: Maps can store any type of key](https://dev.to/318097/js-maps-can-store-any-type-of-key-4j10)
 - [try..catch..finally - Real example](https://dev.to/318097/try-catch-finally-real-example-f51)
 - [String.Repeat()](https://dev.to/318097/string-repeat-3h4e)
 - [What changes can be made with `const`](https://dev.to/318097/what-changes-can-be-made-with-const-pi9)
-- [New Number() is truthy or falsy?](https://dev.to/318097/new-number-is-truthy-or-falsy-2h6p)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

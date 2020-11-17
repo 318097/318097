@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What's the order of execution?](https://dev.to/318097/what-s-the-order-of-execution-3nnn)
 - [Regex - Character Ranges](https://dev.to/318097/regex-character-ranges-5bbh)
 - [Permanently assign `this` to a function](https://dev.to/318097/permanently-assign-this-to-a-function-jim)
 - [Object keys are stored in insertion order](https://dev.to/318097/object-keys-are-stored-in-insertion-order-dlf)
-- [JS: Maps can store any type of key](https://dev.to/318097/js-maps-can-store-any-type-of-key-4j10)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

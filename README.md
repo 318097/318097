@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [10 tricks on JavaScript Arrays and Objects](https://dev.to/318097/10-tricks-on-javascript-arrays-and-objects-3pi)
+- [10 tricks on Arrays and Objects](https://medium.com/javascript-in-plain-english/10-tricks-on-arrays-and-objects-a67e286bfe80?source=rss-17421d791151------2)
 - [10 JavaScript Interview Questions](https://medium.com/javascript-in-plain-english/10-javascript-interview-question-c050a357161c?source=rss-17421d791151------2)
 - [10 JavaScript Interview Questions](https://dev.to/318097/10-javascript-interview-questions-3n6c)
-- [What's the order of execution?](https://dev.to/318097/what-s-the-order-of-execution-3nnn)
-- [Regex - Character Ranges](https://dev.to/318097/regex-character-ranges-5bbh)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

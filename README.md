@@ -17,7 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [10 tricks on JavaScript Arrays and Objects](https://dev.to/318097/10-tricks-on-javascript-arrays-and-objects-3pi)
+- [10 JavaScript Array/Object Tricks](https://dev.to/318097/10-tricks-on-javascript-arrays-and-objects-3pi)
 - [10 JavaScript Array/Object Tricks](https://medium.com/javascript-in-plain-english/10-tricks-on-arrays-and-objects-a67e286bfe80?source=rss-17421d791151------2)
 - [10 JavaScript Interview Questions](https://medium.com/javascript-in-plain-english/10-javascript-interview-question-c050a357161c?source=rss-17421d791151------2)
 - [10 JavaScript Interview Questions](https://dev.to/318097/10-javascript-interview-questions-3n6c)

@@ -18,7 +18,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [18 tips/tricks for Junior JavaScript Developer](https://dev.to/318097/18-tips-tricks-for-junior-javascript-developer-57oa)
-- [18 tips/tricks for a Junior JavaScript Developer](https://medium.com/javascript-in-plain-english/18-tips-tricks-for-a-junior-javascript-developer-ae4af698a596?source=rss-17421d791151------2)
+- [18 Tips and Tricks for Junior JavaScript Developers](https://medium.com/javascript-in-plain-english/18-tips-tricks-for-a-junior-javascript-developer-ae4af698a596?source=rss-17421d791151------2)
 - [10 JavaScript Array/Object Tricks](https://dev.to/318097/10-tricks-on-javascript-arrays-and-objects-3pi)
 - [10 JavaScript Array/Object Tricks](https://medium.com/javascript-in-plain-english/10-tricks-on-arrays-and-objects-a67e286bfe80?source=rss-17421d791151------2)
 <!-- BLOG-POST-LIST:END -->

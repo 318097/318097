@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [.then() implicitly returns a promise](https://dev.to/318097/then-implicitly-returns-a-promise-187p)
 - [9 cool tips/tricks for Web Developers](https://dev.to/318097/9-cool-tips-tricks-for-web-developers-48m7)
 - [9 Simple logical questions for JavaScript beginner's](https://dev.to/318097/9-simple-logical-questions-for-javascript-beginner-s-14ip)
 - [18 tips/tricks for Junior JavaScript Developer](https://dev.to/318097/18-tips-tricks-for-junior-javascript-developer-57oa)
-- [18 Tips and Tricks for Junior JavaScript Developers](https://medium.com/javascript-in-plain-english/18-tips-tricks-for-a-junior-javascript-developer-ae4af698a596?source=rss-17421d791151------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Destructuring from nested object and array](https://dev.to/318097/destructuring-from-nested-object-and-array-2ff8)
 - [.then() implicitly returns a promise](https://dev.to/318097/then-implicitly-returns-a-promise-187p)
 - [9 cool tips/tricks for Web Developers](https://dev.to/318097/9-cool-tips-tricks-for-web-developers-48m7)
 - [9 Simple logical questions for JavaScript beginner's](https://dev.to/318097/9-simple-logical-questions-for-javascript-beginner-s-14ip)
-- [18 tips/tricks for Junior JavaScript Developer](https://dev.to/318097/18-tips-tricks-for-junior-javascript-developer-57oa)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

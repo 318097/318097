@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Hoisting problems](https://dev.to/318097/hoisting-problems-213k)
 - [Use an array as an iterable](https://dev.to/318097/use-an-array-as-an-iterable-192a)
 - [MongoDB Import & Export commands](https://dev.to/318097/mongodb-import-export-commands-257a)
 - [Destructuring from nested object and array](https://dev.to/318097/destructuring-from-nested-object-and-array-2ff8)
-- [.then() implicitly returns a promise](https://dev.to/318097/then-implicitly-returns-a-promise-187p)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

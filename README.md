@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Expand file editor in split mode](https://dev.to/318097/expand-file-editor-in-split-mode-4lpc)
 - [Create a new branch and checkout immediately](https://dev.to/318097/create-a-new-branch-and-checkout-immediately-1k1o)
 - [Optional Chaining](https://dev.to/318097/optional-chaining-7cp)
 - [Hoisting problems](https://dev.to/318097/hoisting-problems-213k)
-- [Use an array as an iterable](https://dev.to/318097/use-an-array-as-an-iterable-192a)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

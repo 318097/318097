@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Pretty print using JSON.stringify()](https://dev.to/318097/pretty-print-using-json-stringify-2jdn)
 - [Promise.reject()](https://dev.to/318097/promise-reject-1mjc)
 - [Expand file editor in split mode](https://dev.to/318097/expand-file-editor-in-split-mode-4lpc)
 - [Create a new branch and checkout immediately](https://dev.to/318097/create-a-new-branch-and-checkout-immediately-1k1o)
-- [Optional Chaining](https://dev.to/318097/optional-chaining-7cp)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

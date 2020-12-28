@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Merge two arrays](https://dev.to/318097/merge-two-arrays-o4o)
 - [Navigate between words](https://dev.to/318097/navigate-between-words-3o50)
 - [Pretty print using JSON.stringify()](https://dev.to/318097/pretty-print-using-json-stringify-2jdn)
 - [Promise.reject()](https://dev.to/318097/promise-reject-1mjc)
-- [Expand file editor in split mode](https://dev.to/318097/expand-file-editor-in-split-mode-4lpc)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

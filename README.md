@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Prevent an object key from appearing in `Object.keys()` or `for..in` loop](https://dev.to/318097/prevent-an-object-key-from-appearing-in-object-keys-or-for-in-loop-35od)
 - [Array.flat()](https://dev.to/318097/array-flat-2afo)
 - [Merge two arrays](https://dev.to/318097/merge-two-arrays-o4o)
 - [Navigate between words](https://dev.to/318097/navigate-between-words-3o50)
-- [Pretty print using JSON.stringify()](https://dev.to/318097/pretty-print-using-json-stringify-2jdn)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

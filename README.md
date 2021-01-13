@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Promise.race()](https://dev.to/318097/promise-race-5246)
 - [Get current timestamp](https://dev.to/318097/get-current-timestamp-pa6)
 - [Prevent an object key from appearing in `Object.keys()` or `for..in` loop](https://dev.to/318097/prevent-an-object-key-from-appearing-in-object-keys-or-for-in-loop-35od)
 - [Array.flat()](https://dev.to/318097/array-flat-2afo)
-- [Merge two arrays](https://dev.to/318097/merge-two-arrays-o4o)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

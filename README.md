@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Async..await is syntactic sugar on Promises](https://dev.to/318097/async-await-is-syntactic-sugar-on-promises-mkc)
 - [Destructuring `array`](https://dev.to/318097/destructuring-array-fnd)
 - [Promise.race()](https://dev.to/318097/promise-race-5246)
 - [Get current timestamp](https://dev.to/318097/get-current-timestamp-pa6)
-- [Prevent an object key from appearing in `Object.keys()` or `for..in` loop](https://dev.to/318097/prevent-an-object-key-from-appearing-in-object-keys-or-for-in-loop-35od)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

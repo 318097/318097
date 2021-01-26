@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Shorthand for `npm install`](https://dev.to/318097/shorthand-for-npm-install-4bdk)
 - [Initialize package.json with default values](https://dev.to/318097/initialize-package-json-with-default-values-412f)
 - [Async..await is syntactic sugar on Promises](https://dev.to/318097/async-await-is-syntactic-sugar-on-promises-mkc)
 - [Destructuring `array`](https://dev.to/318097/destructuring-array-fnd)
-- [Promise.race()](https://dev.to/318097/promise-race-5246)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

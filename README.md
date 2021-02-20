@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Deep Cloning (JSON.parse + JSON.stringify)](https://dev.to/318097/deep-cloning-json-parse-json-stringify-5708)
+- [What's the output?](https://dev.to/318097/what-s-the-output-44fg)
 - [Open a new tab dynamically](https://dev.to/318097/open-a-new-tab-dynamically-4fk3)
 - [Shorthand for `npm install`](https://dev.to/318097/shorthand-for-npm-install-4bdk)
-- [Initialize package.json with default values](https://dev.to/318097/initialize-package-json-with-default-values-412f)
-- [Async..await is syntactic sugar on Promises](https://dev.to/318097/async-await-is-syntactic-sugar-on-promises-mkc)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

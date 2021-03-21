@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Get character code (ASCII code)](https://dev.to/318097/get-character-code-ascii-code-42nb)
 - [Implementing custom `isFalsy()`](https://dev.to/318097/implementing-custom-isfalsy-14cc)
 - [🎉  Product Launch - "Note Box" Chrome Extension 🎉](https://dev.to/318097/product-launch-note-box-chrome-extension-2cja)
 - [Deep Cloning (JSON.parse + JSON.stringify)](https://dev.to/318097/deep-cloning-json-parse-json-stringify-5708)
-- [What's the output?](https://dev.to/318097/what-s-the-output-44fg)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

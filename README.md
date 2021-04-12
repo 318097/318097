@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Multiline flag in regex](https://dev.to/318097/multiline-flag-in-regex-4ibk)
 - [File Ops - A VS Code extension to easily tag/alias files & quick switch between files](https://dev.to/318097/file-ops-a-vs-code-extension-to-easily-tag-alias-files-quick-switch-between-files-1o8b)
 - [Find the largest & smallest number](https://dev.to/318097/find-the-largest-smallest-number-4h2f)
 - [Get character code (ASCII code)](https://dev.to/318097/get-character-code-ascii-code-42nb)
-- [Implementing custom `isFalsy()`](https://dev.to/318097/implementing-custom-isfalsy-14cc)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

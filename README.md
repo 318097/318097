@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [CSS class to add margin for all child elements](https://dev.to/318097/css-class-to-add-margin-for-all-child-elements-41e8)
 - [A single function to add, update, read & delete from an array](https://dev.to/318097/a-single-function-to-add-update-read-delete-from-an-array-42bp)
 - [Destructuring nested object](https://dev.to/318097/destructuring-nested-object-36hm)
 - [Multiline flag in regex](https://dev.to/318097/multiline-flag-in-regex-4ibk)
-- [File Ops - A VS Code extension to easily tag/alias files & quick switch between files](https://dev.to/318097/file-ops-a-vs-code-extension-to-easily-tag-alias-files-quick-switch-between-files-1o8b)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

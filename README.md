@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Delete property from an object](https://dev.to/318097/delete-property-from-an-object-58m2)
 - [Infinitely loop over an array](https://dev.to/318097/infinitely-loop-over-an-array-2e53)
 - [4 ways to check if arrays are equal](https://dev.to/318097/4-ways-to-check-if-arrays-are-equal-4dil)
 - [Filter out `falsy` values](https://dev.to/318097/filter-out-falsy-values-338m)
-- [CSS: Hide scrollbar](https://dev.to/318097/css-hide-scrollbar-4bkp)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

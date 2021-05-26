@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Custom util to get weekday name or number](https://dev.to/318097/custom-util-to-get-weekday-name-or-number-27l7)
 - [Git: Change author name & email for last commit](https://dev.to/318097/git-change-author-name-email-for-last-commit-422h)
 - [Mongo DB: Update data using `.forEach()`](https://dev.to/318097/mongo-db-update-data-using-foreach-3p72)
 - [Custom util to call functions `n` times](https://dev.to/318097/custom-util-to-call-functions-n-times-2fkl)
-- [Pretty format number using '.toLocaleString()'](https://dev.to/318097/pretty-format-number-using-tolocalestring-25el)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

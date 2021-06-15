@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Calling an async function without await](https://dev.to/318097/calling-an-async-function-without-await-47cn)
 - [Popular case types in programming](https://dev.to/318097/popular-case-types-in-programming-559i)
 - [Implement custom '.pick()' for objects](https://dev.to/318097/implement-custom-pick-for-objects-1n5n)
 - [Custom util to get weekday name or number](https://dev.to/318097/custom-util-to-get-weekday-name-or-number-27l7)
-- [Git: Change author name & email for last commit](https://dev.to/318097/git-change-author-name-email-for-last-commit-422h)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

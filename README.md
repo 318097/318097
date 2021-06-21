@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Lodash: _.isEmpty() - Check falsy values](https://dev.to/318097/lodash--isempty-check-falsy-values-3d2a)
 - [Calling an async function without await](https://dev.to/318097/calling-an-async-function-without-await-47cn)
 - [Popular case types in programming](https://dev.to/318097/popular-case-types-in-programming-559i)
 - [Implement custom '.pick()' for objects](https://dev.to/318097/implement-custom-pick-for-objects-1n5n)
-- [Custom util to get weekday name or number](https://dev.to/318097/custom-util-to-get-weekday-name-or-number-27l7)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">

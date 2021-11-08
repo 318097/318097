@@ -19,7 +19,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Looking for graphic designer/video creator](https://dev.to/318097/looking-for-graphic-designer-video-creator-58la)
 - [useToggle: Custom react hook for toggle](https://dev.to/318097/usetoggle-custom-react-hook-for-toggle-3g7)
-- [Lodash: _.isEmpty() - Check falsy values](https://dev.to/318097/lodash--isempty-check-falsy-values-3d2a)
+- [Lodash: _.isEmpty&lpar;&rpar; - Check falsy values](https://dev.to/318097/lodash--isempty-check-falsy-values-3d2a)
 - [Calling an async function without await](https://dev.to/318097/calling-an-async-function-without-await-47cn)
 <!-- BLOG-POST-LIST:END -->
 

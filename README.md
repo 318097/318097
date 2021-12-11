@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **GraphQL**
 
-- 🤝 I’m looking for help with [Notes App](https://github.com/318097/notes)
+- 🤝 I’m looking for help with [Notebase](https://github.com/318097/notebase)
 
 - 📝 I regulary write articles on [https://www.codedrops.tech](https://www.codedrops.tech)
 

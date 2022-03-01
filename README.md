@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with [Notebase](https://github.com/318097/notebase)
 
-- 📝 I regulary write articles on [https://www.codedrops.tech](https://www.codedrops.tech)
+- 📝 I regulary write articles on [codedrops.tech](https://www.codedrops.tech)
 
 - 💬 Ask me about **Javascript**
 
@@ -25,14 +25,43 @@
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://dev.to/318097" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="318097" height="30" width="40" /></a>
-<a href="https://twitter.com/318097" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="318097" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/318097" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="318097" height="30" width="40" /></a>
-<a href="https://fb.com/ml.cr7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ml.cr7" height="30" width="40" /></a>
-<a href="https://medium.com/@318097" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@318097" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@318097" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@318097" height="30" width="40" /></a>
+  <h3 align="left">Connect with me:</h3>
+
+  <a href="https://dev.to/ml318097" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ml318097" height="30" width="40" />
+    </a>
+  <a href="https://twitter.com/ml318097" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ml318097" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/ml318097" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ml318097" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/ml318097" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ml318097" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@ml318097" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ml318097" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerearth.com/@ml318097" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@ml318097" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-plain.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-plain.svg" alt="redux" width="40" height="40"/> </p>
+<p align="left"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" alt="mongodb" width="40" height="40"/> 
+  </a> 
+  <a href="https://nodejs.org" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://redux.js.org" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+  </a>
+ </p>

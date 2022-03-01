@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mehul Lakhanpal</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=318097" alt="318097" /> </p>
+// Count the number of visitors
+// <p align="left"> <img src="https://komarev.com/ghpvc/?username=318097" alt="318097" /> </p>
 
-- 🔭 I’m currently working on [React UI](https://github.com/318097/react-ui)
+- 🔭 I’m currently working on [Fireboard](https://www.fireboardapp.com)
 
 - 🌱 I’m currently learning **GraphQL**
 

@@ -18,6 +18,7 @@
 
 ### Side projects
 - [E Feed](https://www.efeed.xyz/) - Emails in the form of feed
+- [Array Builder](https://www.arraybuilder.com/) - A free tool to visualize the output of array operations
 - [Fireboard](https://www.fireboardapp.com/) - A work tracker for software developers
 - [File Ops](https://marketplace.visualstudio.com/items?itemName=mehullakhanpal.file-ops) - A VS Code extension to easily tag/alias files & quick switch between files
 - [Note Box](https://chrome.google.com/webstore/detail/note-box/mbbajjgefpenmkkhcnmmnoodlbcbfnmp) - A chrome extension to add notes/todos based on URL

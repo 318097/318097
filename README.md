@@ -17,6 +17,7 @@
 - 📫 Reach me at **mehullakhanpal@gmail.com**
 
 ### Side projects
+- [Devbox](https://chrome.google.com/webstore/detail/devbox/moifkpmfincoglpljkonmgnfaeonlgmo) - A UI for local storage
 - [E Feed](https://www.efeed.xyz/) - Emails in the form of feed
 - [Array Builder](https://www.arraybuilder.com/) - A free tool to visualize the output of array operations
 - [Fireboard](https://www.fireboardapp.com/) - A work tracker for software developers

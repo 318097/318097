@@ -54,22 +54,16 @@
  
  <h3 align="left">Connect with me</h3>
 <p align="left">
+   <a href="https://linkedin.com/in/ml318097" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ml318097" height="30" width="40" />
+  </a>
   <a href="https://dev.to/ml318097" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ml318097" height="30" width="40" />
-    </a>
+   </a>
   <a href="https://twitter.com/ml318097" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ml318097" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/ml318097" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ml318097" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/ml318097" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ml318097" height="30" width="40" />
-  </a>
   <a href="https://medium.com/@ml318097" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ml318097" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerearth.com/@ml318097" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@ml318097" height="30" width="40" />
   </a>
 </p>

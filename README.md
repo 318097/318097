@@ -10,7 +10,7 @@
 
 <!-- - 🤝 I’m looking for help with [Notebase](https://github.com/318097/notebase) -->
 
-- 📝 I regulary write articles on [codedrops.tech](https://www.codedrops.tech)
+- 📝 I regulary write articles on [codedrops.tech](https://codedrops.netlify.app)
 
 - 💬 Ask me about **Javascript**
 

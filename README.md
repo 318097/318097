@@ -24,7 +24,15 @@
 - [File Ops](https://marketplace.visualstudio.com/items?itemName=mehullakhanpal.file-ops) - A VS Code extension to easily tag/alias files & quick switch between files
 - [Note Box](https://chrome.google.com/webstore/detail/note-box/mbbajjgefpenmkkhcnmmnoodlbcbfnmp) - A chrome extension to add notes/todos based on URL
 - [Github Marker](https://chrome.google.com/webstore/detail/github-marker/imjdbnnpnohgcdbpgnidgolnamoghpoo?hl=en) - A chrome extension to Favorite, Bookmark & Mark link as Read in Github
- 
+---
+- [Octon](https://octon.netlify.app/) - Manage expenses, todos, goals, progress & personal timeline
+- [Codedrops](https://codedrops.netlify.app/) - Micro-blogging on Web development 
+- [React UI](https://react-ui-lib.netlify.app/) - Custom UI components library for React.js
+- [Lib](https://docs-codedrops.netlify.app/) - Custom utils, helpers, hooks & services
+- [Notebase](https://notebase.netlify.app/) - A customizable app for tracking & maintaing notes
+- [Templates](https://github.com/318097/templates) - Ready to use next-app, next-landing, react-extension, UI library wrappers, dynamic UI generator
+- [Bubblegum](https://github.com/318097/bubblegum) - All-in-one Node server
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Looking for graphic designer/video creator](https://dev.to/318097/looking-for-graphic-designer-video-creator-58la)
@@ -55,15 +63,18 @@
  <h3 align="left">Connect with me</h3>
 <p align="left">
    <a href="https://linkedin.com/in/ml318097" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ml318097" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="30" width="40" />
   </a>
   <a href="https://dev.to/ml318097" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ml318097" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Dev.to" height="30" width="40" />
    </a>
   <a href="https://twitter.com/ml318097" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ml318097" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
   <a href="https://medium.com/@ml318097" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ml318097" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" />
+  </a>
+   <a href="https://www.producthunt.com/@ml318097" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/producthunt.svg" alt="PH" height="30" width="40" />
   </a>
 </p>
